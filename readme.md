@@ -16,7 +16,8 @@ my email: andrew.kim@ga.co
 - describe the utility of computer programming
 - define the role of a REPL in programming
 - list 5 common data types used in ruby and their uses
-- describe what variables are and what they are used for
+- use variables in a ruby program
+- identify what they are used for
 - describe what a method is and why they are useful
 - control flow
 
