@@ -57,14 +57,14 @@ Ruby is a programming language. There are many out there but this is your first!
 - use variables within REPL use simple methods(narrate 10m)
 	- ask why we use variables?
   - everyone always thinks algebra when they see variable assignment, but it works a little differently in programming
-	- set variable name = "andy"
-	- set variable to a = "something"
-	- set variable to the_number_ten = 10
+	- set variable `name = "andy"`
+	- set variable to `a = "something"`
+	- set variable to `the_number_ten = 10`
 	- speak briefly about naming convention and semantic naming
 		- what are some things about this variable name that is good?
 		- going forward we want to name things semantically, but not the extreme as the above example
 		- do full_name in REPL, than draw diagram(variables/value chart)
-			- first_name + last_name = full_name
+			- `full_name = first_name + last_name`
 
 ## Break (10 m)
 ### Class ex-variables (20 m)
