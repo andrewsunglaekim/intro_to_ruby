@@ -28,13 +28,6 @@ my email: andrew.kim@ga.co
 - use a method in a ruby program
 - utilize if/else conditionals to execute control Flow
 
-
-Prior Knowledge Inventory(10m)
--	list every day uses of computer programming
-Take Email for example:
-- *what did the programmer think about in order to write the program for email*
-- data types
-
 Metaphor of PB&J making robot(10m)
 - computer programming allows us to do simple tasks efficiently
 Bringing us back to ruby basics. To learn the building blocks of your first computer programming language.
@@ -46,6 +39,12 @@ Ruby is a programming language. There are many out there but this is your first!
 - released publically in 1995
 - writes like english
 - great language to learn for your very first programming language because of its relatively simple syntax
+
+Prior Knowledge Inventory(10m)
+-	list every day uses of computer programming
+Take Email for example:
+- *what did the programmer think about in order to write the program for email*
+- data types
 
 ### Some Data types(10m)
 - strings
