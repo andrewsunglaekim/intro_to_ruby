@@ -8,6 +8,7 @@
 
 ## Administrative and Logistics!
 [Chat Here!](http://www.disposablechat.com/chat/intro+to+ruby%21?password=)
+
 We'll be using the Cloud9 IDE so that everyone's on the same page.
 - [cloud9](https://c9.io/)
 - create an account
@@ -37,6 +38,14 @@ Take Email for example:
 Metaphor of PB&J making robot(10m)
 - computer programming allows us to do simple tasks efficiently
 Bringing us back to ruby basics. To learn the building blocks of your first computer programming language.
+
+## What is Ruby?
+Ruby is a programming language. There are many out there but this is your first!
+- Created by Yukihiro "Matz" Matsumoto
+- blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp)
+- released publically in 1995
+- writes like english
+- great language to learn for your very first programming language because of its relatively simple syntax
 
 ### Some Data types(10m)
 - strings
