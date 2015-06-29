@@ -7,14 +7,14 @@
 - favorite holiday and why?
 
 ## Administrative and Logistics!
-[Chat Here!](http://www.disposablechat.com/chat/intro+to+ruby%21?password=)
+- [Chat Here!](http://www.disposablechat.com/chat/intro+to+ruby%21?password=)
+- my email: andrew.kim@ga.co
 
 We'll be using the Cloud9 IDE so that everyone's on the same page.
 - [cloud9](https://c9.io/)
 - create an account
 - create a ruby workspace
 If you want ruby installed in your local machine. Follow the directions [here](https://pine.fm/LearnToProgram/chap_00.html)
-my email: andrew.kim@ga.co
 
 
 ## LO's
